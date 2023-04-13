@@ -1,8 +1,8 @@
 # Data After Life
 ![](https://images.unsplash.com/photo-1637664067012-241eb64b7675?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80)
-For my course project, I am interested in understanding how data, the body, and the self are entangled by exploring the intersections of data accumulation and death. The ideas are not fully formed, yet, so I am providing an outline of possiblities.
+For my course project, I am interested in understanding how data, the body, and the self are entangled by exploring the intersections of data archive, curation, and death. The ideas are not fully formed, yet, so I am providing an outline of possiblities.
 ## What Happens to Your Data After You Die?
-![Wired Video (still learning how to make the video work!)](https://www.wired.com/video/watch/what-happens-to-your-data-after-you-die)
+![](https://www.wired.com/video/watch/what-happens-to-your-data-after-you-die)<script async src="//player-backend.cnevids.com/script/video/61eae51d1d75db66d3a61a5b.js?iu=/3379/conde.wired/partner"></script>
 
 
 ## Digital Afterlife
